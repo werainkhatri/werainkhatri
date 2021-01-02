@@ -2,7 +2,7 @@
 
 ### About Me:
 
-I'm a Mobile Application Developer, doing my Bacholer's in Computer Science and Engineering at [NIT Raipur](http://nitrr.ac.in). I also enjoy doing Competitive Programming. Here are my CP Socials: [codeforces](https://codeforces.com/profile/werainkhatri), [codechef](https://codechef.com/users/werainkhatri), [leetcode](https://leetcode.com/werainkhatri), and [hackerrank](https://hackerrank.com/werainkhatri).
+I'm a Mobile Application Developer, doing my Bacholer's in Computer Science and Engineering at [NIT Raipur](http://nitrr.ac.in). I also enjoy doing Competitive Programming. (Here are my CP Socials [codeforces](https://codeforces.com/profile/werainkhatri), [codechef](https://codechef.com/users/werainkhatri), [leetcode](https://leetcode.com/werainkhatri), and [hackerrank](https://hackerrank.com/werainkhatri)). I like Math and playing Minecraft.
 
 ### Work Experience:
 
