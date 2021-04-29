@@ -1,8 +1,8 @@
-# Hey World! Viren here.
+# Hello World! Viren here
 
 ### About Me:
 
-I'm a Mobile Application Developer, doing my Bacholer's in Computer Science and Engineering at [NIT Raipur](http://nitrr.ac.in). Here to contribute in open source. I like Math and Minecraft.
+I'm a Mobile Application Developer, proficient in Flutter. I am doing my Bacholer's in Computer Science and Engineering from NIT Raipur. Here to contribute to open source software and make cool ideas come to life.
 
 ### Connect w/ me on my socials
 
