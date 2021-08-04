@@ -1,15 +1,21 @@
-# Hello World! Viren here, aka werain
+## Hello there 👋 Viren here
 
-### About Me:
+I'm a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and Engineering from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas come to life 💡.
 
-I'm a Mobile Application Developer, proficient in Flutter. I am doing my Bacholer's in Computer Science and Engineering from NIT Raipur. Here to contribute to open source software and make cool ideas come to life.
+Currently, I am
+- Contributing to [Flutter 🐦](https://github.com/flutter/flutter).
+- Learning `data structures and algorithms`, and competing on competitive programming platforms.
+- Listening to songs 🎵 and audiobooks 📘.
+- Tweeting about phylosophy, irony and software.
 
-### Connect w/ me on my socials
+Fun fact about me: I am **werainkhatri** across all platforms.
 
-[Linkedin](https://linkedin.com/in/werainkhatri) | [Instagram](https://instagram.com/werain) | [Twitter](https://twitter.com/werainkhatri)
+Wanna know more? follow me on my socials: [Linkedin](https://linkedin.com/in/werainkhatri) | [Twitter](https://twitter.com/werainkhatri) | [Instagram](https://instagram.com/werain) | [Codeforces](https://codeforces.com/profile/werainkhatri)
 
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true)
 
 ![Visitor Count](https://profile-counter.glitch.me/werainkhatri/count.svg)
+
+Hope you have a great day 😄
