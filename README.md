@@ -8,13 +8,15 @@ Currently, I am
 - Listening to songs 🎵 and audiobooks 📘.
 - Tweeting about phylosophy, irony and software.
 
-Fun fact about me: I am **werainkhatri** across all platforms.
+👈 You can follow me by clicking this button.
 
 Wanna know more? follow me on my socials: [Linkedin](https://linkedin.com/in/werainkhatri) | [Twitter](https://twitter.com/werainkhatri) | [Instagram](https://instagram.com/werain) | [Codeforces](https://codeforces.com/profile/werainkhatri)
 
+Fun fact about me: I am **werainkhatri** across all platforms.
+
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true&theme=dark)
 
 ![Visitor Count](https://profile-counter.glitch.me/werainkhatri/count.svg)
 
