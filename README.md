@@ -1,12 +1,12 @@
 ## Hello there 👋 Viren here
 
-I'm a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and Engineering from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas come to life 💡.
+I'm a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and Engineering from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas 💡 come to life.
 
 Currently, I am
 - Contributing to [Flutter 🐦](https://github.com/flutter/flutter).
 - Learning `data structures and algorithms`.
 - Listening to songs 🎵 and audiobooks 📘.
-- Tweeting about phylosophy 📜, irony 🧲 and software 🖥️.
+- Tweeting about philosophy 📜, irony 🧲 and software 🖥️.
 
 Wanna know more? follow me on my socials: 👈 Here on [Github](https://gihub.com/werainkhatri) | [Linkedin](https://linkedin.com/in/werainkhatri) | [Twitter](https://twitter.com/werainkhatri) | [Instagram](https://instagram.com/werain) | [Codeforces](https://codeforces.com/profile/werainkhatri)
 
