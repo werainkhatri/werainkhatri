@@ -1,9 +1,10 @@
-## Hello there 👋 Viren here
+<p align="center"> <img src="hello-there.gif"> </p>
 
-I'm a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and Engineering from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas 💡 come to life.
+I am a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and Engineering 
+from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas 💡 come to life.
 
 Currently, I am
-- Contributing to [Flutter 🐦](https://github.com/flutter/flutter).
+- [Flutter](https://github.com/flutter/flutter)ing 🐦.
 - Learning `data structures and algorithms`.
 - Listening to songs 🎵 and audiobooks 📘.
 - Tweeting about philosophy 📜, irony 🧲 and software 🖥️.
@@ -18,7 +19,8 @@ Fun fact about me: I am **werainkhatri** across all platforms.
 
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true&theme=dark)
+[![Stats badge]][Stats link]
+[![Top Langs badge]][Top Langs link]
 
 ![Visitor Count](https://profile-counter.glitch.me/werainkhatri/count.svg)
 
@@ -32,3 +34,7 @@ Hope you have a great day 😄
 [LinkedIn badge]: https://img.shields.io/badge/LinkedIn-Connect-%230A66C2
 [Codeforces handle]: https://codeforces.com/profile/werainkhatri
 [Codeforces badge]: https://img.shields.io/badge/Codeforces-add%20to%20friends-%23C40017
+[Stats badge]: https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true&theme=dark
+[Stats link]: https://github.com/anuraghazra/github-readme-stats
+[Top Langs badge]: https://github-readme-stats.vercel.app/api/top-langs/?username=werainkhatri&layout=compact&show_icons=true&hide_border=true&theme=dark
+[Top Langs link]: https://github.com/anuraghazra/github-readme-stats
