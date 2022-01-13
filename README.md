@@ -19,8 +19,14 @@ Fun fact about me: I am **werainkhatri** across all platforms.
 
 <hr>
 
-[![Stats badge]][Stats link]
-[![Top Langs badge]][Top Langs link]
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=werainkhatri&theme=tokyonight" />
+</p>
+
+
+[![Activity badge]][Activity link]
+<!--- [![Top Langs badge]][Top Langs link] -->
 
 ![Visitor Count](https://profile-counter.glitch.me/werainkhatri/count.svg)
 
@@ -34,7 +40,7 @@ Hope you have a great day 😄
 [LinkedIn badge]: https://img.shields.io/badge/LinkedIn-Connect-%230A66C2
 [Codeforces handle]: https://codeforces.com/profile/werainkhatri
 [Codeforces badge]: https://img.shields.io/badge/Codeforces-add%20to%20friends-%23C40017
-[Stats badge]: https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true&theme=dark
-[Stats link]: https://github.com/anuraghazra/github-readme-stats
 [Top Langs badge]: https://github-readme-stats.vercel.app/api/top-langs/?username=werainkhatri&layout=compact&show_icons=true&hide_border=true&theme=dark
 [Top Langs link]: https://github.com/anuraghazra/github-readme-stats
+[Activity badge]: https://activity-graph.herokuapp.com/graph?username=werainkhatri&theme=react-dark
+[Activity link]: https://activity-graph.herokuapp.com/
