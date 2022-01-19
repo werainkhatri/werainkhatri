@@ -4,7 +4,8 @@ I am a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and
 from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas 💡 come to life.
 
 Currently, I am
-- [Flutter](https://github.com/flutter/flutter)ing 🐦.
+- Contributing to [Flutter](https://github.com/flutter/flutter/pulls/created_by/werainkhatri) 🐦.
+- Building [Fractter](https://github.com/werainkhatri/fractter).
 - Learning `data structures and algorithms`.
 - Listening to songs 🎵 and audiobooks 📘.
 - Tweeting about philosophy 📜, irony 🧲 and software 🖥️.
