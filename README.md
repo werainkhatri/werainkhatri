@@ -4,11 +4,16 @@ I am a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and
 from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas 💡 come to life.
 
 Currently, I am
-- Contributing to [Flutter](https://github.com/flutter/flutter/pulls/created_by/werainkhatri) 🐦.
-- Building [Fractter](https://github.com/werainkhatri/fractter).
+- Contributing to [Flutter](https://github.com/pulls?q=is%3Apr+author%3Awerainkhatri+org%3Aflutter) 💙.
+- SDEing at Amazon IN.
 - Learning `data structures and algorithms`.
 - Listening to songs 🎵 and audiobooks 📘.
 - Tweeting about philosophy 📜, irony 🧲 and software 🖥️.
+
+A few live projects built my me:
+- [Pubgraph](http://pubgraph.virenkhatri.me): 2D and 3D visualization of flutter and dart packages packages.
+- [Fractter](http://fractter.virenkhatri.me): a step-by-step [fractal](https://en.wikipedia.org/wiki/Fractal) generation visualizer.
+- [Codecourt](http://codecourt.virenkhatri.me): an online code submission and evaluation platform.
 
 Wanna know more? follow me on my socials:
 [![GitHub badge][]][GitHub handle]
