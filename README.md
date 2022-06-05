@@ -11,7 +11,7 @@ Currently, I am
 - Tweeting about philosophy 📜, irony 🧲 and software 🖥️.
 
 A few live projects built my me:
-- [Pubgraph](http://pubgraph.virenkhatri.me): 2D and 3D visualization of flutter and dart packages packages.
+- [Pubgraph](http://pubgraph.virenkhatri.me): 2D and 3D visualization of [pub.dev](https://pub.dev) packages.
 - [Fractter](http://fractter.virenkhatri.me): a step-by-step [fractal](https://en.wikipedia.org/wiki/Fractal) generation visualizer.
 - [Codecourt](http://codecourt.virenkhatri.me): an online code submission and evaluation platform.
 
