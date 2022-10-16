@@ -1,16 +1,16 @@
 <p align="center"> <img src="hello-there.gif"> </p>
 
-I am a Software Developer 💻, doing my Bacholer's 🎓 in Computer Science and Engineering 
-from NIT Raipur 🏫. Here to contribute to open source software and make cool ideas 💡 come to life.
+I am a software developer here to contribute to open source and make cool ideas 💡 come to life.
 
 Currently, I am
 - Contributing to [Flutter](https://github.com/pulls?q=is%3Apr+author%3Awerainkhatri+org%3Aflutter) 💙.
-- SDEing at Amazon IN.
-- Learning `data structures and algorithms`.
+- Livestreaming 👆 on [YouTube](https://www.youtube.com/channel/UCGMrCX1rNPBfdtP5UtLGMjw) ▶️.
+- Delivering 📦 software at Amazon IN.
 - Listening to songs 🎵 and audiobooks 📘.
 - Tweeting about philosophy 📜, irony 🧲 and software 🖥️.
 
 A few live projects built my me:
+- [issue](https://pub.dev/packages/issue): A tool to help cli package authors make raising issues like bug reports more interactive for their users.
 - [Pubgraph](http://pubgraph.virenkhatri.me): 2D and 3D visualization of [pub.dev](https://pub.dev) packages.
 - [Fractter](http://fractter.virenkhatri.me): a step-by-step [fractal](https://en.wikipedia.org/wiki/Fractal) generation visualizer.
 - [Codecourt](http://codecourt.virenkhatri.me): an online code submission and evaluation platform.
@@ -24,15 +24,6 @@ Wanna know more? follow me on my socials:
 Fun fact about me: I am **werainkhatri** across all platforms.
 
 <hr>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=werainkhatri&theme=tokyonight" />
-</p>
-
-
-[![Activity badge]][Activity link]
-<!--- [![Top Langs badge]][Top Langs link] -->
 
 ![Visitor Count](https://profile-counter.glitch.me/werainkhatri/count.svg)
 
